@@ -26,20 +26,6 @@
 
 ---
 
-<h2 align="center">About Me</h2>
-
-<img align="right" alt="Developer at work" width="255" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
-
-- 🌱 Currently learning more about AI engineering, system design, and cloud-native deployment.
-- 🛠️ I build full-stack apps, APIs, dashboards, and software experiences that solve practical problems.
-- 🤖 I am especially interested in AI, backend systems, automation, and developer-focused tooling.
-- 🤝 Open to collaborating on ambitious web products, creative side projects, and smart developer tools.
-- ✨ I enjoy turning complex ideas into clean interfaces and dependable systems.
-
-<br clear="right" />
-
----
-
 <h2 align="center">Tech Stack</h2>
 
 <p align="center"><strong>Languages</strong></p>
@@ -47,7 +33,12 @@
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+</p>
+
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 </p>
 
 <p align="center"><strong>Frameworks</strong></p>
@@ -69,6 +60,20 @@
   <img src="https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
 </p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<img align="right" alt="Developer at work" width="255" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
+
+- 🌱 Currently learning more about AI engineering, system design, and cloud-native deployment.
+- 🛠️ I build full-stack apps, APIs, dashboards, and software experiences that solve practical problems.
+- 🤖 I am especially interested in AI, backend systems, automation, and developer-focused tooling.
+- 🤝 Open to collaborating on ambitious web products, creative side projects, and smart developer tools.
+- ✨ I enjoy turning complex ideas into clean interfaces and dependable systems.
+
+<br clear="right" />
 
 ---
 
