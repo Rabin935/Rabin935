@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:111827,100:0ea5e9&section=header&text=&fontSize=0" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:111827,100:a855f7&section=header&text=&fontSize=0" width="100%" alt="header" />
 </p>
 
 <img align="right" alt="Night coding" width="290" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Rabin Tamang 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;AI+Enthusiast;Building+software+that+feels+fast+and+alive" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;AI+Enthusiast;Building+software+that+feels+fast+and+alive" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -119,12 +119,12 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rabin935&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Rabin935&background=0D1117&border=30363D&stroke=58A6FF&ring=38BDF8&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rabin935&theme=github_dark" alt="GitHub stats summary" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Rabin935&background=0D1117&border=30363D&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Current GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabin935&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Top languages by commits" />
 </p>
 
 ---
@@ -153,5 +153,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:111827,100:0f172a&section=footer&text=&fontSize=0" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a855f7,50:111827,100:0f172a&section=footer&text=&fontSize=0" width="100%" alt="footer" />
 </p>
