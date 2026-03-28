@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Top languages by commits" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rabin935&bg_color=0d1117&color=c9d1d9&line=a855f7&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
