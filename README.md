@@ -119,22 +119,12 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rabin935&theme=github_dark" alt="GitHub stats summary" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats summary with rank" />
   <img height="170" src="https://streak-stats.demolab.com?user=Rabin935&background=0D1117&border=30363D&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Current GitHub streak" />
 </p>
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rabin935&theme=github_dark" alt="Languages used chart" />
-</p>
-
-<p align="center"><strong>Level Scale</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-475569?style=for-the-badge&labelColor=111827" alt="Level C" />
-  <img src="https://img.shields.io/badge/C%2B-64748B?style=for-the-badge&labelColor=111827" alt="Level C plus" />
-  <img src="https://img.shields.io/badge/B-0F766E?style=for-the-badge&labelColor=111827" alt="Level B" />
-  <img src="https://img.shields.io/badge/B%2B-0891B2?style=for-the-badge&labelColor=111827" alt="Level B plus" />
-  <img src="https://img.shields.io/badge/A-7C3AED?style=for-the-badge&labelColor=111827" alt="Level A" />
-  <img src="https://img.shields.io/badge/A%2B-A855F7?style=for-the-badge&labelColor=111827" alt="Level A plus" />
 </p>
 
 ---
