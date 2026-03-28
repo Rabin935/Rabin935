@@ -123,20 +123,10 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Rabin935&background=0D1117&border=30363D&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Current GitHub streak" />
 </p>
 
+<p align="center"><strong>Top Languages by Commits</strong></p>
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabin935&theme=github_dark" alt="GitHub contribution overview" />
+  <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Top languages by commits" />
 </p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Contribution by programming languages" />
-    </td>
-    <td>
-      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rabin935&theme=github_dark&utcOffset=5.75" alt="Productive contribution time" />
-    </td>
-  </tr>
-</table>
 
 ---
 
