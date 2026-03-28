@@ -118,10 +118,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats summary with rank" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Rabin935&background=0D1117&border=30363D&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Current GitHub streak" />
-</p>
+
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rabin935&theme=github_dark" alt="Languages used chart" />
