@@ -124,7 +124,17 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Top languages by commits" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rabin935&theme=github_dark" alt="Languages used chart" />
+</p>
+
+<p align="center"><strong>Level Scale</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-475569?style=for-the-badge&labelColor=111827" alt="Level C" />
+  <img src="https://img.shields.io/badge/C%2B-64748B?style=for-the-badge&labelColor=111827" alt="Level C plus" />
+  <img src="https://img.shields.io/badge/B-0F766E?style=for-the-badge&labelColor=111827" alt="Level B" />
+  <img src="https://img.shields.io/badge/B%2B-0891B2?style=for-the-badge&labelColor=111827" alt="Level B plus" />
+  <img src="https://img.shields.io/badge/A-7C3AED?style=for-the-badge&labelColor=111827" alt="Level A" />
+  <img src="https://img.shields.io/badge/A%2B-A855F7?style=for-the-badge&labelColor=111827" alt="Level A plus" />
 </p>
 
 ---
