@@ -124,8 +124,19 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Contribution by programming languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabin935&theme=github_dark" alt="GitHub contribution overview" />
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rabin935&theme=github_dark" alt="Contribution by programming languages" />
+    </td>
+    <td>
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rabin935&theme=github_dark&utcOffset=5.75" alt="Productive contribution time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
